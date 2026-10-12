@@ -1,4 +1,4 @@
-# Blackcutter ⚔️
+# Blackcutter ⚔️ (WIP)
 
 A high-performance 2D action game engine built in Python utilizing **Entity-Component-System (ECS)** architecture, procedural inverse kinematics (IK) animation, and a custom spatial data editor.
 
